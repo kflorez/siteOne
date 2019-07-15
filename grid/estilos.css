@@ -1,0 +1,56 @@
+
+
+header {
+  background:#2c3e50;
+  color:#fff;
+
+}
+
+
+
+
+  img { 
+width: 600px; 
+height: 268px; 
+background-size: 300px 300px;
+background-size: 100% 100%;
+background-size: cover;
+
+}
+
+
+
+.main {
+	background:#f2f2f2;
+
+}
+
+.color1 {
+	background:#D5CFCD;
+	color:black;
+
+	background:yellow;
+	color:Black;
+}
+
+.color2 {
+	background:silver;
+	color:black;
+
+	background:silver;
+	color:Black;
+}
+
+
+
+ul:hover {
+  background: black;
+}
+ 
+li:hover {
+  background: yellow;
+}
+ 
+li:hover a {
+  color: green;
+}
